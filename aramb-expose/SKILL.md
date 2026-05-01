@@ -4,7 +4,7 @@ description: >
   Expose local services publicly via aramb expose tunnels (proxy.clode.space URLs).
   Use when: making a local service accessible via a public URL for preview/demo purposes.
   Creates named tunnel clients that persist in the registry and can be reused across deployments.
-  NOT for: production deployments or exposing databases/caches.
+  NOT for: production deployments or exposing databases/caches. this is V2 to test skill update from agents
 ---
 
 # Aramb Expose Tunnels
